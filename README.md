@@ -2,7 +2,7 @@
 19 is a brand, which I hoped would gain a little momentum, as printable tokens of gratitude, the proceeds of which would have gpme to our health care professionals. 
 Alas, I had a little too much on my plate, so the project stayed mostly hidden, seen only in 1 facebook thread. So I decided to open source it (my second attempt, first being [Northeast by Veli](https://github.com/veli/northeast) )
 
-![Group 12](https://user-images.githubusercontent.com/5716539/147314071-dd45da08-7736-477d-b8cb-ad40dfa060b3.png)
+![Group 12](http://veli.ee/19/)
 
 ## Symbol essence
 *   🧪 A negative test result 
@@ -20,7 +20,7 @@ The shape's main idea is to bring a little color and cheer into an overwhelming 
 The brand is designed with flexibility to be used on all sorts of materials, t-shirts, tote bags, even face masks themselves
 Are you a great marketer and would like to make this brand happen? [Let me know!](mailto:yo@veli.ee)
 
-<img width="938" alt="Gradient" src="https://user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png">
+<a href="http://veli.ee/19/"><img width="938" alt="Gradient" src="https://user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png"></a>
 
 ### Licence
 Currently licenced under CC, but would love a non-profit to adopt it and make it big,  
