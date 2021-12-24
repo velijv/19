@@ -27,3 +27,9 @@ Currently licenced under CC, but would love a non-profit to adopt it and make it
 [19 by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19">Share on Facebook</a> - 
+<a href="https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20">Share on Twitter</a> - 
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/velijv/19&title=&summary=free%20brand%20looking%20for%20a%20caring%20owner.%20&source=https%3A//github.com/velijv/19">Share on LinkedIn</a> - 
+<a href="https://pinterest.com/pin/create/button/?url=https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20">Pin on Pinterest</a> - 
+<a href="mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19">Send Email</a> 
