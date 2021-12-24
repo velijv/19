@@ -5,13 +5,13 @@ Alas, I am not too great of a project manager, so the project stayed hidden. So 
 ![Group 12](https://user-images.githubusercontent.com/5716539/147314071-dd45da08-7736-477d-b8cb-ad40dfa060b3.png)
 
 ## Symbol essence
-*    A negative test result
-*    the number 19, which hardly anyone will forget
-*    the cross of emergency medical services
-*    symbol on ambulance
-*    the flower of life
-*    a heart 
-*    and a face mask
+*   🧪 A negative test result 
+*   🦠 the number 19, which hardly anyone will forget
+*   🏥 the cross of emergency medical services
+*   🚑 symbol on ambulance
+*   💮 the flower of life
+*   💙 a heart 
+*   😷 and a face mask
 
 ## Brandmark construction
 ### Symbol
