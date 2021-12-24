@@ -1,6 +1,6 @@
 # [19 by Veli](http://veli.ee/19/)
 19 is a brand, which I hoped would gain a little momentum, as printable tokens of gratitude, the proceeds of which would go to our health care professionals. 
-Alas, I am not too great of a project manager, so the project stayed hidden. So I decided to open source it (my second attempt [Northeast by Veli](https://github.com/veli/northeast)
+Alas, I am not too great of a project manager, so the project stayed hidden. So I decided to open source it (my second attempt, first being [Northeast by Veli](https://github.com/veli/northeast) )
 
 ![Group 12](https://user-images.githubusercontent.com/5716539/147314071-dd45da08-7736-477d-b8cb-ad40dfa060b3.png)
 
