@@ -1,5 +1,5 @@
 # [19 by Veli](http://veli.ee/19/)
-19 is a brand, which I hoped would gain a little momentum, as printable tokens of gratitude, the proceeds of which would have gpme to our health care professionals. 
+19 is a brand, which I hoped would gain a little momentum, as printable tokens of gratitude, the proceeds of which would have gone to our healthcare professionals. 
 Alas, I had a little too much on my plate, so the project stayed mostly hidden, seen only in 1 facebook thread. So I decided to open source it (my second attempt, first being [Northeast by Veli](https://github.com/veli/northeast) )
 
 <a href="http://veli.ee/19/"><img src="https://user-images.githubusercontent.com/5716539/147314071-dd45da08-7736-477d-b8cb-ad40dfa060b3.png"></a>
