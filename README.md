@@ -27,3 +27,4 @@ Are you a great marketer and would like to make this brand happen? [Let me know!
 Currently licenced under CC, would love a non-profit to adopt it and make it big,  
 [19 by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
 
+Thank you, medical personnel!❤️💙💚👩🏻‍⚕️
