@@ -13,18 +13,17 @@ Alas, I had a little too much on my plate, so the project stayed mostly hidden, 
 *   💙 a heart 
 *   😷 and a face mask
 
-## Brandmark construction
-### Symbol
-The shape's main idea is to bring a little colorful into an overwhelmed and miserable situation, with pins/badges/reflectors with the logo to show your support. 
+## Symbol
+The shape's main idea is to bring a little color and cheer into an overwhelming and miserable situation, creating pins/badges/reflectors with the logo to show your support. 
 
 ## Can you find a good use for it? 
-The brand is designed with flexibility to be used on all sorts of materials, even t-shirts, tote bags, even face masks themselves
+The brand is designed with flexibility to be used on all sorts of materials, t-shirts, tote bags, even face masks themselves
 Are you a great marketer and would like to make this brand happen? [Let me know!](mailto:yo@veli.ee)
 
 <img width="938" alt="Gradient" src="https://user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png">
 
 ### Licence
-Currently licenced under CC, would love a non-profit to adopt it and make it big,  
+Currently licenced under CC, but would love a non-profit to adopt it and make it big,  
 [19 by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️
