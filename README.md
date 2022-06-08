@@ -34,10 +34,7 @@ The brand is designed with flexibility to be used on all sorts of materials, t-s
 Are you a great marketer and would like to make this brand happen? 
 👉🏻 [Let me know!](mailto:yo@veli.ee) 👈🏻
 
-<a href="http://veli.ee/19/"><img width="938" alt="Gradient" src="https://user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png"></a>
-
 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a good home, share: 
-
 
 [![Facebook](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=facebook&logoColor=7ae1ce&labelColor=1877F2&style=for-the-badge&color=rgba(0,0,0,0.3))](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19)
 [![Twitter](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=twitter&logoColor=7ae1ce&labelColor=1DA1F2&style=for-the-badge&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
