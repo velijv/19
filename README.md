@@ -4,6 +4,9 @@ Alas, I had a little too much on my plate ⚡and the project stayed in the drawi
 
 <a href="http://veli.ee/19/"><img src="https://user-images.githubusercontent.com/5716539/147349754-6b3b5c93-3eb1-4915-8a6a-b939925bde5f.png"></a>
 
+<details>
+  <summary>Symbol essence</summary>
+  
 ## Symbol essence
 *   🧪 A negative test result 
 *   🦠 the number 19, which hardly anyone will forget
@@ -12,9 +15,19 @@ Alas, I had a little too much on my plate ⚡and the project stayed in the drawi
 *   💮 the flower of life
 *   💙 a heart 
 *   😷 and a face mask
+  
+</details>
 
+
+
+<details>
+  <summary>Main idea</summary>
+  
 ## Symbol
 The shape's main idea is to bring a little color and cheer into an overwhelming and miserable situation, creating pins/badges/reflectors with the logo to show your support of our healthcare. And give the profits to those working hard to cure us, 
+  
+</details>
+
 
 ## Can you find a good use for it? 
 The brand is designed with flexibility to be used on all sorts of materials, t-shirts, tote bags, even face masks. 
@@ -25,11 +38,13 @@ Are you a great marketer and would like to make this brand happen?
 
 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a good home, share: 
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19">Facebook</a> - 
-<a href="https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20">Twitter</a> - 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/velijv/19&title=&summary=free%20brand%20looking%20for%20a%20caring%20owner.%20&source=https%3A//github.com/velijv/19">LinkedIn</a> - 
-<a href="https://pinterest.com/pin/create/button/?url=https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20">Pinterest</a> - 
-<a href="mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19">Email</a> 
 
-### Licence
-Copyright (c) 2021, Veli-Johan Veromann All rights reserved.
+[![Facebook](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=facebook&logoColor=7ae1ce&labelColor=1877F2&style=for-the-badge&color=rgba(0,0,0,0.3))](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19)
+[![Twitter](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=twitter&logoColor=7ae1ce&labelColor=1DA1F2&style=for-the-badge&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![Linkedin](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=linkedin&logoColor=7ae1ce&labelColor=0072b1&style=for-the-badge&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=pinterest&logoColor=7ae1ce&labelColor=BD081C&style=for-the-badge&color=rgba(0,0,0,0.3))](https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=gmail&logoColor=7ae1ce&labelColor=EA4335&style=for-the-badge&color=rgba(0,0,0,0.3))](mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19)
+
+---
+
+<sub>Copyright (c) 2021, Veli-Johan Veromann All rights reserved.</sub>
