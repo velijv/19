@@ -8,7 +8,7 @@ Alas, I had a little too much on my plate ⚡and the project stayed in the drawi
 ## <a href="https://www.figma.com/file/Kuw0bVg7O6SZznYIoYgSS5/Eesti-meditsiinit%C3%B6%C3%B6tajate-toetusm%C3%A4rk?node-id=0%3A1"><img src="https://img.shields.io/badge/Figma-Source-rgba%280%2C0%2C0%2C0%29.svg?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzggNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiIGZpbGw9IiMxYWJjZmUiLz48cGF0aCBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6IiBmaWxsPSIjMGFjZjgzIi8+PHBhdGggZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiIGZpbGw9IiNmZjcyNjIiLz48cGF0aCBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiIGZpbGw9IiNmMjRlMWUiLz48cGF0aCBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiIGZpbGw9IiNhMjU5ZmYiLz48L3N2Zz4=&logoColor=F24E1E&labelColor=161b22&style=for-the-badge" height="24">Link to Figma source</a>
 
 <details>
-  <summary>Symbol essence</summary>
+  <summary>💚 Symbol essence</summary>
   
 ## Symbol essence
 *   🧪 A negative test result 
@@ -24,7 +24,7 @@ Alas, I had a little too much on my plate ⚡and the project stayed in the drawi
 
 
 <details>
-  <summary>Main idea</summary>
+  <summary>💡 Main idea</summary>
   
 ## Symbol
 The shape's main idea is to bring a little color and cheer into an overwhelming and miserable situation, creating pins/badges/reflectors with the logo to show your support of our healthcare. And give the profits to those working hard to cure us, 
@@ -32,7 +32,7 @@ The shape's main idea is to bring a little color and cheer into an overwhelming 
 </details>
 
 
-## Can you find a good use for it? 
+## 🙌 Can you find a good use for it? 
 The brand is designed with flexibility to be used on all sorts of materials, t-shirts, tote bags, even face masks. 
 Are you a great marketer and would like to make this brand happen? 
 👉🏻 [Let me know!](mailto:yo@veli.ee) 👈🏻
