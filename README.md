@@ -53,6 +53,8 @@ The brand is designed with flexibility to be used on all sorts of materials, t-s
 
 ***
 
-[![19](https://repository-images.githubusercontent.com/441355581/dca87bee-84e8-4daa-aaa5-51ceccf0f819)](http://veli.ee/19/)
+<p align="center"><a href="https://github.com/velijv/northeast"><img src="https://veli.ee/northeast/logo.php?type=medicine+in&c1=69F0AE&t2=🙇" height="128" alt="Logo"></a></p>
 
 <sub>Copyright (c) 2021, Veli-Johan Veromann All rights reserved.</sub>
+
+[![19](https://repository-images.githubusercontent.com/441355581/dca87bee-84e8-4daa-aaa5-51ceccf0f819)](http://veli.ee/19/)
