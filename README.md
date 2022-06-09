@@ -1,6 +1,6 @@
 ## [19 by Veli](https://veli.ee/19/)
 
-<a href="https://veli.ee/19"><img src="https://veli.ee/19/grid.svg?2" width="256" alt="Grid"></a>
+<a href="https://veli.ee/19"><img src="https://veli.ee/19/grid.svg?3" width="256" alt="Grid"></a>
 <a href="https://veli.ee/19"><img src="https://veli.ee/19/logo.svg?2" width="256" alt="Logo"></a>
 
 19 is a brand, which gained a little momentum, but didn't finish as printable tokens of gratitude, the proceeds of which would have gone to our healthcare professionals. 
