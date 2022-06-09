@@ -1,6 +1,4 @@
-# [19 by Veli](http://veli.ee/19/)
-
-[![19](https://repository-images.githubusercontent.com/441355581/dca87bee-84e8-4daa-aaa5-51ceccf0f819)](http://veli.ee/19/)
+## [19 by Veli](http://veli.ee/19/)
 
 19 is a brand, which gained a little momentum, but didn't finish as printable tokens of gratitude, the proceeds of which would have gone to our healthcare professionals. 
 Alas, I had a little too much on my plate ⚡and the project stayed in the drawing board. So I decided to give it away (my second one actually, first being [an Estonian National Brand Competition finalist](https://github.com/velijv/northeast) )
@@ -37,9 +35,8 @@ The brand is designed with flexibility to be used on all sorts of materials, t-s
 🙌 Are you a great marketer and would like to make this brand happen? 
 👉🏻 [Let me know!](mailto:yo@veli.ee) 👈🏻
 
----
 
-Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a good home, share: 
+> 🙇 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a good home, share: 
 
 [![Facebook](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=facebook&logoColor=fff&labelColor=1877F2&style=flat-square&color=rgba(0,0,0,0.3))](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19)
 [![Twitter](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=twitter&logoColor=fff&labelColor=1DA1F2&style=flat-square&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
@@ -47,5 +44,8 @@ Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a 
 [![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=pinterest&logoColor=fff&labelColor=BD081C&style=flat-square&color=rgba(0,0,0,0.3))](https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20)
 [![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=gmail&logoColor=fff&labelColor=EA4335&style=flat-square&color=rgba(0,0,0,0.3))](mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19)
 
+***
+
+[![19](https://repository-images.githubusercontent.com/441355581/dca87bee-84e8-4daa-aaa5-51ceccf0f819)](http://veli.ee/19/)
 
 <sub>Copyright (c) 2021, Veli-Johan Veromann All rights reserved.</sub>
