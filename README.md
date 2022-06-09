@@ -32,9 +32,9 @@ The shape's main idea is to bring a little color and cheer into an overwhelming 
 </details>
 
 
-## 🙌 Can you find a good use for it? 
+## 🤝 Can you find a good use for it? 
 The brand is designed with flexibility to be used on all sorts of materials, t-shirts, tote bags, even face masks. 
-Are you a great marketer and would like to make this brand happen? 
+🙌 Are you a great marketer and would like to make this brand happen? 
 👉🏻 [Let me know!](mailto:yo@veli.ee) 👈🏻
 
 Thank you, medical personnel!❤️💙💚👩🏻‍⚕️ help a logo find a good home, share: 
