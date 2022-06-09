@@ -1,4 +1,7 @@
-## [19 by Veli](http://veli.ee/19/)
+## [19 by Veli](https://veli.ee/19/)
+
+<a href="https://veli.ee/19"><img src="https://veli.ee/19/grid.svg?2" width="256" alt="Grid"></a>
+<a href="https://veli.ee/19"><img src="https://veli.ee/19/logo.svg?2" width="256" alt="Logo"></a>
 
 19 is a brand, which gained a little momentum, but didn't finish as printable tokens of gratitude, the proceeds of which would have gone to our healthcare professionals. 
 Alas, I had a little too much on my plate ⚡and the project stayed in the drawing board. So I decided to give it away (my second one actually, first being [an Estonian National Brand Competition finalist](https://github.com/velijv/northeast) )
