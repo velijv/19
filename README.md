@@ -46,15 +46,13 @@ The brand is designed with flexibility to be used on all sorts of materials, t-s
 ### Help a logo find a good home, please share
 
 [![Facebook](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=facebook&logoColor=fff&labelColor=1877F2&style=flat-square&color=rgba(0,0,0,0.3))](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/velijv/19)
-[![Twitter](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=twitter&logoColor=fff&labelColor=1DA1F2&style=flat-square&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
-[![Linkedin](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=linkedin&logoColor=fff&labelColor=0072b1&style=flat-square&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
-[![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=pinterest&logoColor=fff&labelColor=BD081C&style=flat-square&color=rgba(0,0,0,0.3))](https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20)
-[![pinterest](https://img.shields.io/badge/%E2%80%8E-share-rgba%280%2C0%2C0%2C0%29.svg?logo=gmail&logoColor=fff&labelColor=EA4335&style=flat-square&color=rgba(0,0,0,0.3))](mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19)
+[![Twitter](https://img.shields.io/badge/%E2%80%8E-tweet-rgba%280%2C0%2C0%2C0%29.svg?logo=twitter&logoColor=fff&labelColor=1DA1F2&style=flat-square&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![Linkedin](https://img.shields.io/badge/%E2%80%8E-post-rgba%280%2C0%2C0%2C0%29.svg?logo=linkedin&logoColor=fff&labelColor=0072b1&style=flat-square&color=rgba(0,0,0,0.3))](https://twitter.com/intent/tweet?text=https%3A//github.com/velijv/19%20free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![pinterest](https://img.shields.io/badge/%E2%80%8E-pin-rgba%280%2C0%2C0%2C0%29.svg?logo=pinterest&logoColor=fff&labelColor=BD081C&style=flat-square&color=rgba(0,0,0,0.3))](https%3A//github.com/velijv/19&media=https%3A//user-images.githubusercontent.com/5716539/147314020-0e7546e1-ee85-40d0-9c4d-e8d31b71354f.png&description=free%20brand%20looking%20for%20a%20caring%20owner.%20)
+[![mail](https://img.shields.io/badge/%E2%80%8E-mail-rgba%280%2C0%2C0%2C0%29.svg?logo=gmail&logoColor=fff&labelColor=EA4335&style=flat-square&color=rgba(0,0,0,0.3))](mailto:?subject=Free%20brand%20looking%20for%20a%20caring%20owner.%20&body=https%3A//github.com/velijv/19)
 
 ***
 
-<p align="center"><a href="https://github.com/velijv/northeast"><img src="https://veli.ee/northeast/logo.php?type=medicine+in&c1=69F0AE&t2=🙇" height="128" alt="Logo"></a></p>
+<p align="left"><a href="https://github.com/velijv/northeast"><img src="https://veli.ee/northeast/logo.php?type=medicine+in&c1=69F0AE&t2=🙇" height="64" alt="Logo"></a></p>
 
-<sub>Copyright (c) 2021, Veli-Johan Veromann All rights reserved.</sub>
-
-[![19](https://repository-images.githubusercontent.com/441355581/dca87bee-84e8-4daa-aaa5-51ceccf0f819)](http://veli.ee/19/)
+[![19 © 2021 by Veli-Johan Veromann is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International](https://img.shields.io/badge/Licence-CC--BY--NC--ND%204.0-rgba%280%2C0%2C0%2C0%29?logo=CreativeCommons&logoColor=fff&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
