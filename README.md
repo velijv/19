@@ -53,6 +53,6 @@ The brand is designed with flexibility to be used on all sorts of materials, t-s
 
 ***
 
-<p align="left"><a href="https://github.com/velijv/northeast"><img src="https://veli.ee/northeast/logo.php?type=medicine+in&c1=69F0AE&t2=🙇" height="64" alt="Logo"></a></p>
+<p align="left"><a href="https://github.com/velijv/northeast"><img src="https://veli.ee/northeast/logo?t=medicine+in&c=69F0AE&t2=🙇" height="64" alt="Logo"></a></p>
 
-[![19 © 2021 by Veli-Johan Veromann is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International](https://img.shields.io/badge/Licence-CC--BY--NC--ND%204.0-rgba%280%2C0%2C0%2C0%29?logo=CreativeCommons&logoColor=fff&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
+[![19 © 2021 by Veli-Johan Veromann is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International](https://img.shields.io/badge/Licence-CC--BY--NC--ND%204.0-rgba%280%2C0%2C0%2C0%29?logo=CreativeCommons&logoColor=fff&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "19 by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
